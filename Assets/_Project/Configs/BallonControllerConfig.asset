@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1899f26f6297fa54291d6dc0d81db1ff, type: 3}
+  m_Name: BallonControllerConfig
+  m_EditorClassIdentifier: 
+  <Prefabs>k__BackingField:
+  - {fileID: 1141555927223159744, guid: 89735e652f600dc4a8d21578642addf7, type: 3}
+  - {fileID: 6142213944886623204, guid: f82d873ba0c1f2f4eac012f83fc4f53d, type: 3}
+  <Distance>k__BackingField: 10
+  <MinSpeed>k__BackingField: 0.5
+  <MaxSpeed>k__BackingField: 1
+  <SpawnInterval>k__BackingField: 1
+  <MinCurveHeight>k__BackingField: 0.5
+  <MaxCurveHeight>k__BackingField: 1.5
+  <MinFrequency>k__BackingField: 0.5
+  <MaxFrequency>k__BackingField: 2
+  <SpawnOffset>k__BackingField: 1
+  <BallonsLimit>k__BackingField: 3

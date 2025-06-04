@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1514e5f4521dfbd48a92842cd64a9abb, type: 3}
+  m_Name: FireElement
+  m_EditorClassIdentifier: 
+  <Element>k__BackingField: {fileID: 1219461307618007758, guid: a6dae53ce113c564fb9bcefb4321ddfc, type: 3}
